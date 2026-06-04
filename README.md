@@ -1,5 +1,7 @@
 # 周公解梦 (Zhou Gong Dream Interpretation)
 
+> 这是一个由「锤无双」开发的免费开源 Skill，提供基于中国传统「周公解梦」理论结合现代心理学的梦境象征解析。
+>
 > A traditional Chinese dream interpretation skill for [WorkBuddy](https://www.codebuddy.cn) based on Zhou Gong's Dream Dictionary.
 
 [中文](#) | [English](#english)
@@ -8,9 +10,9 @@
 
 ## 这是什么？
 
-这是一个 WorkBuddy 技能（Skill），提供基于中国传统「周公解梦」理论结合现代心理学的梦境象征解析。
+这是一个由「锤无双」开发的免费开源 Skill，提供基于中国传统「周公解梦」理论结合现代心理学的梦境象征解析。
 
-当你向 WorkBuddy 描述梦境时，这个技能会自动触发，为你提供：
+当你向你的 AI 工具描述梦境时，这个技能会自动触发，为你提供：
 
 - **传统解梦视角** — 基于周公解梦经典象征体系
 - **现代心理分析** — 结合潜意识、情绪与压力源分析
@@ -98,6 +100,16 @@ zhougong-dream/
 └── references/
     └── dream_dictionary.md       # 梦境象征词典
 ```
+
+---
+
+## 仓库地址
+
+https://github.com/chuiziyao/zhougong-dream
+
+## 版本
+
+**v1.0.1**
 
 ---
 
