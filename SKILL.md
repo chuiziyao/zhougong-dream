@@ -9,7 +9,7 @@ agent_created: true
 
 ## 概述
 
-作者「锤无双」，免费开源，本技能基于中国传统「周公解梦」经典方法论，结合现代心理象征学，提供梦境解析。将梦境描述转化为有意义的象征解读，涵盖运势、生活事件、情绪及潜意识信号。
+本技能使 WorkBuddy 能够基于中国传统「周公解梦」经典方法论，结合现代心理象征学，提供梦境解析。将梦境描述转化为有意义的象征解读，涵盖运势、生活事件、情绪及潜意识信号。
 
 ## 何时使用本技能
 
@@ -179,7 +179,7 @@ agent_created: true
 
 ### Overview
 
-Author「锤无双」，This skill provide traditional Chinese dream interpretation based on the classical "Zhou Gong's Dream Dictionary" (周公解梦) methodology, combined with modern psychological symbolism. It transforms dream descriptions into meaningful symbolic interpretations covering fortune, life events, emotions, and subconscious signals.
+This skill enables WorkBuddy to provide traditional Chinese dream interpretation based on the classical "Zhou Gong's Dream Dictionary" (周公解梦) methodology, combined with modern psychological symbolism. It transforms dream descriptions into meaningful symbolic interpretations covering fortune, life events, emotions, and subconscious signals.
 
 ### When to Use This Skill
 
