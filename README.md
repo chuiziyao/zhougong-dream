@@ -2,7 +2,7 @@
 
 > 这是一个由「锤无双」开发的免费开源 Skill，提供基于中国传统「周公解梦」理论结合现代心理学的梦境象征解析。
 >
-> A traditional Chinese dream interpretation skill for based on Zhou Gong's Dream Dictionary.
+> A traditional Chinese dream interpretation skill for [WorkBuddy](https://www.codebuddy.cn) based on Zhou Gong's Dream Dictionary.
 
 [中文](#) | [English](#english)
 
@@ -103,6 +103,8 @@ zhougong-dream/
 
 ---
 
+---
+
 ## 仓库地址
 
 https://github.com/chuiziyao/zhougong-dream
@@ -117,7 +119,7 @@ https://github.com/chuiziyao/zhougong-dream
 
 ### What is this?
 
-A skill that provides dream interpretation based on traditional Chinese "Zhou Gong's Dream Dictionary" combined with modern psychology.
+A WorkBuddy skill that provides dream interpretation based on traditional Chinese "Zhou Gong's Dream Dictionary" combined with modern psychology.
 
 ### Install
 
